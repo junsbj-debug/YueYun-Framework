@@ -20,3 +20,6 @@ The YueYun Framework is a decentralized intelligent architecture that takes the 
 - Version: V1.0 (Foundational Edition)
 - Type: Open Civilization White Paper
 - Principle: Open Sharing · Universal Participation · Civilization Co-Construction
+## Permanent Archive Links
+- GitHub: https://github.com/JunsBJ-调试/月云框架
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.19893479
