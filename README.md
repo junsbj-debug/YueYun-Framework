@@ -1,6 +1,6 @@
 # YueYun Framework White Paper V1.0
 > **Future AI Should Belong to Households, Not Only Data Centers**
-
+**Official Release Date: May 1, 2026**
 Household AI Incubation and Civilization-Scale Closed-Loop Intelligence System
 
 跃云体系（YueYun Framework）是一套以家庭为最小文明单元的去中心化智能架构，通过本地模型孵化、个人数据投喂、权重遗传与分布式多智能体协作，构建面向全民的下一代数字文明基础设施。
