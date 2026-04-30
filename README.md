@@ -1,9 +1,9 @@
 # YueYun Framework White Paper V1.0
-**Household AI Incubation and Civilization-Scale Closed-Loop Intelligence System**
+> **Future AI Should Belong to Households, Not Only Data Centers**
+
+Household AI Incubation and Civilization-Scale Closed-Loop Intelligence System
 
 跃云体系（YueYun Framework）是一套以家庭为最小文明单元的去中心化智能架构，通过本地模型孵化、个人数据投喂、权重遗传与分布式多智能体协作，构建面向全民的下一代数字文明基础设施。
-
-The YueYun Framework is a decentralized intelligent architecture that takes the household as the smallest civilizational unit. It constructs the next-generation digital civilization infrastructure for all humanity.
 
 ---
 
@@ -20,6 +20,9 @@ The YueYun Framework is a decentralized intelligent architecture that takes the 
 - Version: V1.0 (Foundational Edition)
 - Type: Open Civilization White Paper
 - Principle: Open Sharing · Universal Participation · Civilization Co-Construction
+
+---
+
 ## Permanent Archive Links
-- GitHub: https://github.com/JunsBJ-调试/月云框架
+- GitHub: https://github.com/JunsBJ-调试/YueYun-Framework
 - Zenodo (DOI): https://doi.org/10.5281/zenodo.19893479
