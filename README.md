@@ -5,6 +5,8 @@ Household AI Incubation and Civilization-Scale Closed-Loop Intelligence System
 
 跃云体系（YueYun Framework）是一套以家庭为最小文明单元的去中心化智能架构，通过本地模型孵化、个人数据投喂、权重遗传与分布式多智能体协作，构建面向全民的下一代数字文明基础设施。
 
+**Official Release Date: May 1, 2026**
+
 ---
 
 ## Core Contents / 核心内容
@@ -24,5 +26,5 @@ Household AI Incubation and Civilization-Scale Closed-Loop Intelligence System
 ---
 
 ## Permanent Archive Links
-- GitHub: https://github.com/JunsBJ-调试/YueYun-Framework
+- GitHub: https://github.com/junsbj-debug/YueYun-Framework
 - Zenodo (DOI): https://doi.org/10.5281/zenodo.19893479
