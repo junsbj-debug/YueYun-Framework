@@ -137,8 +137,11 @@ Official Release Date: May 1, 2026
 - Principle: Open Sharing · Universal Participation · Civilization Co‑Construction
 
 ## Permanent Archive Links
-- GitHub: https://github.com/junsbj-debug/YueYun-Framework
-- Zenodo (DOI): https://doi.org/10.5281/zenodo.19893479
+- **GitHub Repository**: https://github.com/junsbj-debug/YueYun-Framework
+- **White Paper (DOI)**: https://doi.org/10.5281/zenodo.19893479
+- **DEV.to Article**: [粘贴你的 DEV.to 文章链接]
+- **Hashnode Blog**: https://yueyun-framework.hashnode.dev/future-ai-should-belong-to-households-not-only-data-centers-yueyun-framework
+- **Medium Article**: https://medium.com/@junschen911/future-ai-should-belong-to-households-not-only-data-centers-a3b2ece4c5a5
 
 ---
 
