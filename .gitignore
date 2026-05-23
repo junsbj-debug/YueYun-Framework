@@ -1,0 +1,42 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Local AI runtime
+models/
+checkpoints/
+vector-db/
+
+# Environment files
+.env
+
+# Build outputs
+dist/
+build/
+
+# Node modules
+node_modules/
+
+# Experimental cache
+cache/
+
+# Runtime memory
+memory/
+
+# Large generated archives
+archives/
