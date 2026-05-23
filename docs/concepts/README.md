@@ -1,133 +1,103 @@
-# Concepts Layer
+# Concept Engineering Layer
 
-## Purpose
+Concept engineering is the foundational layer of YueYun Framework.
 
-The Concepts Layer defines the foundational conceptual engineering structure of the YueYun Framework.
-
-This layer is responsible for:
-
-- Concept atomization
-- Terminology standardization
-- Civilization-scale semantic consistency
-- Long-term protocol interpretability
-- Human-centered AI conceptual governance
-
-The purpose of this layer is to prevent ambiguity accumulation during future engineering expansion.
+This layer is responsible for transforming large-scale civilization ideas into structured, modular, discussable engineering concepts.
 
 ---
 
-# Core Concept Structure
+# Core Objective
+
+Convert abstract long-term AI civilization concepts into:
+
+- structured modules
+- protocol-ready terminology
+- engineering-decomposable units
+- open collaborative concepts
+
+---
+
+# Main Concepts
 
 ## 1. Personality Continuity
 
-Definition:
+Long-term persistence of digital personality structure across devices, time, and environments.
 
-A long-term stable continuity structure preserving human memory, behavioral logic, interaction preferences, emotional patterns, and digital identity persistence across time and devices.
+Focus areas:
 
-Key Goals:
-
-- Cross-device continuity
-- Long-term memory persistence
-- Human identity stability
-- Non-platform-dependent personality storage
+- memory persistence
+- identity continuity
+- multi-device synchronization
+- personality inheritance
+- long-term interaction stability
 
 ---
 
 ## 2. Household Node
 
-Definition:
+The household becomes the smallest autonomous AI civilization unit.
 
-The household is treated as the smallest stable unit of civilization-scale AI infrastructure.
+Core directions:
 
-A household node contains:
-
-- Local AI models
-- Memory systems
-- Device coordination
-- Offline resilience capability
-- Local data governance
-
-Core Principle:
-
-AI should primarily serve localized human environments before connecting to civilization-scale networks.
+- local AI computation
+- private memory storage
+- family-scale coordination
+- offline survivability
+- distributed household collaboration
 
 ---
 
-## 3. Protocol-First Architecture
+## 3. LeapNet
 
-Definition:
+Distributed collaboration network between household AI nodes.
 
-The YueYun Framework prioritizes open protocols over centralized platforms.
+Possible future capabilities:
 
-Goals:
-
-- Interoperability
-- Replaceable infrastructure
-- Open collaboration
-- Long-term survivability
-- Decentralized coordination
-
-The protocol layer must remain independent from commercial entities.
+- decentralized AI cooperation
+- distributed task routing
+- cross-household intelligence exchange
+- resilient communication structure
+- long-term distributed cognition
 
 ---
 
-## 4. Multi-Layer AI Collaboration
+## 4. Civilizational Resilience
 
-Definition:
+AI infrastructure must maintain continuity during instability, disaster, or infrastructure fragmentation.
 
-Different intelligence layers cooperate together:
+Research directions:
 
-- Cloud AI
-- Household AI
-- Personal AI
-- Offline AI
-- Community AI
-
-This structure prevents over-centralization and improves resilience.
+- offline capability
+- decentralized coordination
+- local-first systems
+- redundancy architecture
+- long-term societal continuity
 
 ---
 
-## 5. Civilizational Resilience
+## 5. Protocol-First Architecture
 
-Definition:
+The framework prioritizes open protocols over centralized platforms.
 
-The framework is designed to maintain long-term human continuity under technological, economic, or infrastructural instability.
+Core principles:
 
-Focus Areas:
-
-- Offline survivability
-- Distributed intelligence
-- Knowledge persistence
-- Household-level redundancy
-- Open archival systems
+- interoperability
+- modularity
+- replaceable implementations
+- open standards
+- distributed governance possibility
 
 ---
 
-# Concept Engineering Principles
+# Engineering Goals
 
-## Clarity First
+The concept layer aims to:
 
-Concepts must remain interpretable across decades.
-
----
-
-## Anti-Ambiguity
-
-Avoid vague or overloaded terminology.
-
----
-
-## Human-Centered
-
-Humans remain the primary subjects of civilization.
-
-AI acts as an acceleration tool.
-
----
-
-## Open Standardization
-
-Core concepts should remain publicly auditable and collaboratively expandable.
+1. standardize terminology
+2. reduce ambiguity
+3. support protocol drafting
+4. support architecture decomposition
+5. provide foundations for future demos and experiments
 
 ---
 
@@ -135,27 +105,35 @@ Core concepts should remain publicly auditable and collaboratively expandable.
 
 Current stage:
 
-Early conceptual engineering and semantic stabilization.
+Early conceptual engineering and terminology stabilization.
 
-Future stages:
+No final implementation is defined yet.
 
-- Protocol decomposition
-- Architecture formalization
-- Household-node experimentation
-- Open collaboration framework
-- Public infrastructure exploration
+Technology stack remains fully open.
 
 ---
 
-# Related Layers
+# Future Expansion
 
-- protocols/
-- architecture/
-- household-node/
-- experiments/
+Future concept modules may include:
+
+- local AI memory systems
+- distributed cognition frameworks
+- household governance models
+- AI inheritance structure
+- long-term digital continuity protocols
+- civilization-scale coordination systems
 
 ---
 
-# Long-Term Goal
+# Open Collaboration
 
-Build a stable conceptual foundation for long-term household-centered distributed AI civilization infrastructure.
+YueYun Framework welcomes:
+
+- conceptual discussion
+- protocol proposals
+- architecture decomposition
+- distributed systems research
+- long-term AI continuity exploration
+
+Open collaboration is encouraged.
