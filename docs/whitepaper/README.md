@@ -1,21 +1,19 @@
 # Whitepaper Layer
 
-The Whitepaper Layer stores the formal conceptual publications and long-term research snapshots of YueYun Framework.
-
+The Whitepaper Layer stores the formal conceptual publications and long-term research snapshots of YueYun Framework.  
 This layer acts as the historical documentation archive for continuity-oriented framework evolution.
 
 ---
 
-# Core Objective
+## Core Objective
 
 Provide structured, versioned, and publicly accessible framework documentation for long-term AI continuity research.
 
 ---
 
-# Whitepaper Philosophy
+## Whitepaper Philosophy
 
 The whitepaper system is intended to preserve:
-
 - conceptual continuity
 - protocol evolution history
 - infrastructure assumptions
@@ -27,10 +25,9 @@ This layer prioritizes documentation persistence over implementation speed.
 
 ---
 
-# Current Whitepaper Structure
+## Current Whitepaper Structure
 
-Possible future contents include:
-
+Published and planned contents include:
 - conceptual whitepapers
 - infrastructure papers
 - protocol drafts
@@ -42,12 +39,20 @@ Possible future contents include:
 
 ---
 
-# Versioning Philosophy
+## Published Documents
 
-Whitepapers may evolve over time.
+| Filename | Version | Language | Description |
+|----------|---------|----------|-------------|
+| `YueYun-Framework-White-Paper-V1.0-CN-FINAL.pdf` | V1.0 | 简体中文 | 项目纲领性白皮书，定义核心理念与11层架构 |
+| `YueYun-Framework-White-Paper-V1.0-EN-FINAL.pdf` | V1.0 | English | Official English edition of the V1.0 whitepaper |
+| `YueYun_Framework_Public_Supplementary_v1.1.pdf` | V1.1 | 中英文 | 公开补充说明版，包含勘误与补充定义 |
 
+---
+
+## Versioning Philosophy
+
+Whitepapers may evolve over time.  
 Potential future structure:
-
 - V1.0
 - V1.1
 - research snapshots
@@ -59,10 +64,9 @@ The framework treats documentation as part of long-term continuity infrastructur
 
 ---
 
-# Important Clarification
+## Important Clarification
 
 This repository does NOT claim:
-
 - finalized AGI architecture
 - guaranteed implementation feasibility
 - production deployment readiness
@@ -73,10 +77,9 @@ The purpose is to support transparent, engineering-oriented conceptual explorati
 
 ---
 
-# Long-Term Goal
+## Long-Term Goal
 
 Establish a persistent open framework archive for:
-
 - continuity-oriented AI systems
 - protocol-first infrastructure
 - distributed household intelligence
