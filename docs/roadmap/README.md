@@ -1,15 +1,13 @@
 # Roadmap Layer
+# 路线图层
 
 The Roadmap Layer defines the long-term engineering evolution direction of the YueYun Framework.
-
 This layer focuses on transforming conceptual infrastructure into progressively testable, modular, and collaborative engineering stages.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Provide a long-term development structure for:
-
 - concept evolution
 - protocol decomposition
 - household-node experimentation
@@ -21,12 +19,9 @@ The roadmap is exploratory and may evolve over time.
 
 ---
 
-# Roadmap Philosophy
-
+## Roadmap Philosophy
 YueYun Framework follows an incremental engineering path.
-
 The framework does not assume:
-
 - instant AGI
 - centralized super-systems
 - immediate mass adoption
@@ -34,7 +29,6 @@ The framework does not assume:
 - short-term commercialization
 
 Instead, the framework prioritizes:
-
 - long-term continuity
 - layered engineering
 - modular experimentation
@@ -43,36 +37,29 @@ Instead, the framework prioritizes:
 
 ---
 
-# Development Stages
-
-## Stage 0 — Concept Formation
-
-Current focus:
-
+## Development Stages
+### Stage 0 — Concept Formation
+**Current focus:**
 - terminology stabilization
 - repository structuring
 - architectural decomposition
 - protocol drafting
 - continuity concept definition
 
-Primary goal:
-
+**Primary goal:**
 Build a coherent conceptual engineering foundation.
 
 ---
 
-## Stage 1 — Experimental Validation
-
-Focus areas:
-
+### Stage 1 — Experimental Validation
+**Focus areas:**
 - local memory persistence
 - continuity observation
 - multi-device synchronization
 - offline survivability
 - lightweight AI runtime testing
 
-Potential outputs:
-
+**Potential outputs:**
 - reproducible experiments
 - benchmark observations
 - continuity testing reports
@@ -80,18 +67,15 @@ Potential outputs:
 
 ---
 
-## Stage 2 — Prototype Demonstration
-
-Focus areas:
-
+### Stage 2 — Prototype Demonstration
+**Focus areas:**
 - local AI memory assistant
 - household knowledge systems
 - continuity synchronization demos
 - offline AI node prototypes
 - low-power household AI runtime
 
-Potential outputs:
-
+**Potential outputs:**
 - demo repositories
 - local runtime prototypes
 - continuity visualization systems
@@ -99,18 +83,15 @@ Potential outputs:
 
 ---
 
-## Stage 3 — Household Node Infrastructure
-
-Focus areas:
-
+### Stage 3 — Household Node Infrastructure
+**Focus areas:**
 - stable local runtime environments
 - household memory architecture
 - local-first synchronization
 - privacy-preserving continuity systems
 - modular household deployment
 
-Potential outputs:
-
+**Potential outputs:**
 - household node standards
 - deployment structures
 - continuity runtime environments
@@ -118,18 +99,15 @@ Potential outputs:
 
 ---
 
-## Stage 4 — Distributed Collaboration Infrastructure
-
-Focus areas:
-
+### Stage 4 — Distributed Collaboration Infrastructure
+**Focus areas:**
 - protocol-based synchronization
 - distributed household coordination
 - decentralized collaboration
 - resilient communication structures
 - asynchronous continuity systems
 
-Potential outputs:
-
+**Potential outputs:**
 - distributed coordination protocols
 - node collaboration infrastructure
 - synchronization architecture
@@ -137,10 +115,8 @@ Potential outputs:
 
 ---
 
-## Stage 5 — Long-Term Continuity Infrastructure
-
-Long-term exploration areas:
-
+### Stage 5 — Long-Term Continuity Infrastructure
+**Long-term exploration areas:**
 - multi-generational continuity
 - distributed continuity archives
 - resilient civilization infrastructure
@@ -151,10 +127,8 @@ This stage remains highly exploratory.
 
 ---
 
-# Engineering Priorities
-
+## Engineering Priorities
 Current engineering priorities include:
-
 1. conceptual clarity
 2. protocol stabilization
 3. modular decomposition
@@ -165,10 +139,8 @@ Current engineering priorities include:
 
 ---
 
-# Open Engineering Strategy
-
+## Open Engineering Strategy
 The framework encourages:
-
 - open collaboration
 - modular engineering
 - distributed experimentation
@@ -180,14 +152,11 @@ No mandatory implementation path exists.
 
 ---
 
-# Current Stage
-
+## Current Stage
 Current repository stage:
-
 Early conceptual engineering and infrastructure decomposition.
 
 The repository currently focuses on:
-
 - documentation
 - conceptual structuring
 - protocol exploration
@@ -198,10 +167,8 @@ No finalized implementation exists yet.
 
 ---
 
-# Future Expansion Possibilities
-
+## Future Expansion Possibilities
 Potential future expansions may include:
-
 - local AI operating environments
 - distributed memory infrastructure
 - continuity scoring systems
@@ -213,8 +180,7 @@ Technology selection remains fully open.
 
 ---
 
-# Open Questions
-
+## Open Questions
 - How should continuity be measured?
 - What infrastructure layers are truly necessary?
 - How should household nodes synchronize?
@@ -225,10 +191,8 @@ Technology selection remains fully open.
 
 ---
 
-# Relationship With Other Layers
-
+## Relationship With Other Layers
 The roadmap layer coordinates with:
-
 - concepts/
 - protocols/
 - architecture/
@@ -242,6 +206,5 @@ This layer provides the long-term engineering evolution direction for the entire
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Build a resilient, modular, human-centered, distributed AI continuity framework capable of evolving gradually across decades through open engineering collaboration and local-first infrastructure participation.
