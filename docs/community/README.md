@@ -1,15 +1,13 @@
 # Community Layer
+# 社区层
 
 The Community Layer defines how open collaboration may emerge around the YueYun Framework.
-
 This layer focuses on long-term collaborative engineering, distributed research participation, and open civilization-scale discussion.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Build an open and sustainable collaboration environment for:
-
 - researchers
 - engineers
 - protocol designers
@@ -21,10 +19,8 @@ The framework encourages collaborative exploration rather than centralized owner
 
 ---
 
-# Community Philosophy
-
+## Community Philosophy
 YueYun Framework treats community as:
-
 - collaborative infrastructure
 - distributed intelligence participation
 - long-term concept evolution
@@ -35,10 +31,8 @@ The project does not pursue personality cult structures or centralized ideologic
 
 ---
 
-# Collaboration Principles
-
+## Collaboration Principles
 Community collaboration should prioritize:
-
 1. openness
 2. transparency
 3. modular contribution
@@ -49,10 +43,8 @@ Community collaboration should prioritize:
 
 ---
 
-# Contribution Directions
-
+## Contribution Directions
 Possible contribution areas include:
-
 - conceptual engineering
 - protocol drafting
 - architecture decomposition
@@ -65,10 +57,8 @@ Possible contribution areas include:
 
 ---
 
-# Engineering-Oriented Participation
-
+## Engineering-Oriented Participation
 The framework encourages:
-
 - small modular contributions
 - reproducible experiments
 - technical documentation
@@ -80,14 +70,11 @@ Large-scale implementation should emerge gradually from smaller validated engine
 
 ---
 
-# Current Community Stage
-
+## Current Community Stage
 Current stage:
-
 Early open repository formation.
 
 The current focus is:
-
 - terminology stabilization
 - repository structuring
 - protocol decomposition
@@ -98,10 +85,8 @@ No formal organization exists yet.
 
 ---
 
-# Open Collaboration Model
-
+## Open Collaboration Model
 Potential future collaboration models may include:
-
 - open GitHub collaboration
 - distributed engineering groups
 - protocol discussion communities
@@ -113,12 +98,10 @@ The structure remains fully open.
 
 ---
 
-# Governance Philosophy
-
+## Governance Philosophy
 The framework currently does not define a finalized governance structure.
 
 Possible future directions may include:
-
 - open governance discussion
 - protocol-based coordination
 - distributed contribution models
@@ -129,10 +112,8 @@ Governance exploration remains experimental.
 
 ---
 
-# Relationship With Other Layers
-
+## Relationship With Other Layers
 The community layer interacts with:
-
 - concepts/
 - protocols/
 - architecture/
@@ -144,8 +125,7 @@ Community participation helps transform conceptual frameworks into collaborative
 
 ---
 
-# Open Questions
-
+## Open Questions
 - How should open collaboration scale?
 - How should technical disputes be resolved?
 - How can modular engineering remain coordinated?
@@ -156,6 +136,5 @@ Community participation helps transform conceptual frameworks into collaborative
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Build an open long-term engineering collaboration environment capable of supporting human-centered distributed AI civilization infrastructure research over multi-decade timescales.
