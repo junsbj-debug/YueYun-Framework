@@ -1,23 +1,19 @@
 # Architecture Layer
+# 架构层
 
 The Architecture Layer defines the structural engineering decomposition of the YueYun Framework.
-
 This layer focuses on transforming conceptual and protocol structures into system-level architectural models.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Design a scalable, modular, resilient, and household-centered AI civilization infrastructure architecture.
 
 ---
 
-# Architecture Philosophy
-
+## Architecture Philosophy
 The YueYun Framework does not pursue a single centralized super-system.
-
 Instead, it explores a multi-layer collaborative architecture composed of:
-
 - centralized AI systems
 - distributed infrastructure
 - household-local AI nodes
@@ -26,12 +22,9 @@ Instead, it explores a multi-layer collaborative architecture composed of:
 
 ---
 
-# Core Structural Layers
-
-## 1. Super-Centralized AI Layer
-
+## Core Structural Layers
+### 1. Super-Centralized AI Layer
 Potential responsibilities:
-
 - civilization-scale scientific computation
 - large-scale model training
 - medical research
@@ -42,10 +35,8 @@ This layer prioritizes extreme-scale computation capability.
 
 ---
 
-## 2. Industry Distributed Layer
-
+### 2. Industry Distributed Layer
 Potential responsibilities:
-
 - transportation systems
 - enterprise AI collaboration
 - city-scale coordination
@@ -56,12 +47,10 @@ This layer acts as the coordination bridge between centralized and household sys
 
 ---
 
-## 3. Household AI Layer
-
+### 3. Household AI Layer
 The household becomes the minimum long-term AI civilization unit.
 
 Potential components:
-
 - local AI runtimes
 - family memory systems
 - local knowledge archives
@@ -70,10 +59,8 @@ Potential components:
 
 ---
 
-## 4. Personal AI Layer
-
+### 4. Personal AI Layer
 Potential future directions:
-
 - persistent personal assistants
 - local memory continuity
 - cross-device synchronization
@@ -82,12 +69,10 @@ Potential future directions:
 
 ---
 
-## 5. Offline Resilience Layer
-
+### 5. Offline Resilience Layer
 The framework assumes infrastructure instability is inevitable.
 
 Research areas:
-
 - offline operation
 - decentralized recovery
 - low-dependency systems
@@ -96,46 +81,37 @@ Research areas:
 
 ---
 
-# Architectural Principles
-
-## Human-Centered
-
+## Architectural Principles
+### Human-Centered
 Humans remain the primary subjects of civilization.
 
 ---
 
-## Protocol-First
-
-Protocols outlive platforms.
+### Protocol-First
+Protocols outline platforms.
 
 ---
 
-## Modular Structure
-
+### Modular Structure
 All systems should remain replaceable and decomposable.
 
 ---
 
-## Local-First Resilience
-
+### Local-First Resilience
 Local survivability is prioritized over permanent cloud dependency.
 
 ---
 
-## Long-Term Continuity
-
+### Long-Term Continuity
 Architecture should support multi-decade continuity.
 
 ---
 
-# Current Engineering Status
-
+## Current Engineering Status
 Current architecture work remains conceptual and exploratory.
-
 No final implementation exists yet.
 
 The current repository focuses on:
-
 - structural decomposition
 - architecture abstraction
 - protocol preparation
@@ -143,10 +119,8 @@ The current repository focuses on:
 
 ---
 
-# Future Engineering Exploration
-
+## Future Engineering Exploration
 Potential future exploration directions:
-
 - household AI operating environments
 - distributed memory systems
 - AI coordination layers
@@ -156,10 +130,8 @@ Potential future exploration directions:
 
 ---
 
-# Relationship With Other Layers
-
+## Relationship With Other Layers
 Related repository layers:
-
 - concepts/
 - protocols/
 - household-node/
@@ -168,6 +140,5 @@ Related repository layers:
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Build a resilient and human-centered distributed AI civilization architecture capable of long-term coexistence between centralized intelligence and household-local AI systems.
