@@ -1,23 +1,19 @@
 # Experimental Layer
+# 实验层
 
 The Experimental Layer is responsible for validating whether the conceptual and architectural assumptions of the YueYun Framework can operate in reality.
-
 This layer focuses on observable behavior, engineering verification, and long-term AI continuity experimentation.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Transform conceptual structures into testable experiments.
-
 The goal is not to immediately build a final product, but to verify whether long-term household-centered AI continuity is technically achievable.
 
 ---
 
-# Experimental Philosophy
-
+## Experimental Philosophy
 YueYun Framework treats experiments as:
-
 - verification tools
 - engineering decomposition methods
 - behavioral observation systems
@@ -27,12 +23,9 @@ Experiments are prioritized over theoretical speculation.
 
 ---
 
-# Current Experimental Direction
-
+## Current Experimental Direction
 The current stage focuses on small-scale local experiments rather than large-scale infrastructure deployment.
-
 Research emphasis includes:
-
 - local AI continuity
 - long-term memory persistence
 - household-node survivability
@@ -42,24 +35,19 @@ Research emphasis includes:
 
 ---
 
-# Initial Experiment Roadmap
-
-## Experiment 001 — Local Memory Persistence
-
-### Objective
-
+## Initial Experiment Roadmap
+### Experiment 001 — Local Memory Persistence
+**Objective**
 Verify whether a local AI system can maintain long-term memory continuity across multiple sessions.
 
-### Possible Exploration Areas
-
+Possible Exploration Areas:
 - memory persistence
 - session continuity
 - memory retrieval stability
 - context drift
 - long-term interaction consistency
 
-### Potential Technologies
-
+Potential Technologies:
 - Ollama
 - local LLM runtimes
 - vector databases
@@ -69,14 +57,11 @@ Technology selection remains open.
 
 ---
 
-## Experiment 002 — Personality Continuity Observation
-
-### Objective
-
+### Experiment 002 — Personality Continuity Observation
+**Objective**
 Observe whether long-term interaction produces stable personality structure patterns.
 
-### Research Directions
-
+Research Directions:
 - behavior consistency
 - preference persistence
 - communication style continuity
@@ -85,22 +70,18 @@ Observe whether long-term interaction produces stable personality structure patt
 
 ---
 
-## Experiment 003 — Multi-Device Synchronization
-
-### Objective
-
+### Experiment 003 — Multi-Device Synchronization
+**Objective**
 Verify whether multiple local devices can maintain synchronized AI continuity.
 
-### Potential Devices
-
+Potential Devices:
 - PC
 - phone
 - tablet
 - local server
 - edge device
 
-### Research Areas
-
+Research Areas:
 - synchronization latency
 - memory consistency
 - local-first synchronization
@@ -109,14 +90,11 @@ Verify whether multiple local devices can maintain synchronized AI continuity.
 
 ---
 
-## Experiment 004 — Offline Survivability
-
-### Objective
-
+### Experiment 004 — Offline Survivability
+**Objective**
 Verify whether household AI nodes can continue operating during network interruption.
 
-### Research Areas
-
+Research Areas:
 - offline inference
 - local memory operation
 - disconnected coordination
@@ -125,14 +103,11 @@ Verify whether household AI nodes can continue operating during network interrup
 
 ---
 
-## Experiment 005 — Low-Power Household AI Runtime
-
-### Objective
-
+### Experiment 005 — Low-Power Household AI Runtime
+**Objective**
 Explore whether household AI systems can operate continuously under low-power environments.
 
-### Possible Exploration Areas
-
+Possible Exploration Areas:
 - lightweight AI runtime
 - low-power hardware
 - edge inference
@@ -141,10 +116,8 @@ Explore whether household AI systems can operate continuously under low-power en
 
 ---
 
-# Experimental Principles
-
+## Experimental Principles
 Experiments should prioritize:
-
 1. simplicity
 2. reproducibility
 3. low dependency
@@ -155,10 +128,8 @@ Experiments should prioritize:
 
 ---
 
-# Engineering Methodology
-
+## Engineering Methodology
 The framework encourages:
-
 - small iterative experiments
 - measurable observation
 - modular engineering
@@ -169,24 +140,17 @@ The project does not assume a fixed implementation path.
 
 ---
 
-# Current Status
-
+## Current Status
 Current stage:
-
 Early experimental planning.
-
 No official benchmark exists yet.
-
 No mandatory technical stack exists.
-
 Experiments remain exploratory and open.
 
 ---
 
-# Future Experimental Possibilities
-
+## Future Experimental Possibilities
 Potential future experiments may include:
-
 - household AI memory systems
 - distributed household coordination
 - local knowledge inheritance
@@ -197,8 +161,7 @@ Potential future experiments may include:
 
 ---
 
-# Open Questions
-
+## Open Questions
 - How should long-term memory be measured?
 - How can continuity drift be evaluated?
 - How should personality stability be observed?
@@ -209,6 +172,5 @@ Potential future experiments may include:
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Build a reproducible experimental foundation for long-term household-centered AI continuity systems.
