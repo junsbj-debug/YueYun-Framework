@@ -1,15 +1,13 @@
 # Demo Engineering Layer
+# 演示工程层
 
 The Demo Engineering Layer is responsible for transforming conceptual and experimental results into visible, reproducible, and interactive demonstrations.
-
 This layer focuses on proving that the YueYun Framework can evolve beyond theoretical architecture into observable engineering systems.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Build demonstrable prototypes that validate:
-
 - household AI continuity
 - local AI infrastructure
 - long-term memory persistence
@@ -17,19 +15,17 @@ Build demonstrable prototypes that validate:
 - local-first AI interaction
 - decentralized AI survivability
 
-The purpose of demos is verification and communication, not commercial productization.
+The purpose of demos is verification and communication, not commercial production.
 
 ---
 
-# Demo Philosophy
-
+## Demo Philosophy
 YueYun Framework demos should prioritize:
-
 - simplicity
 - reproducibility
 - transparency
 - modularity
-- low hardware dependency
+- low infrastructure dependency
 - local-first operation
 - explainable architecture
 
@@ -37,12 +33,9 @@ Demos are engineering proofs, not polished consumer applications.
 
 ---
 
-# Current Demo Direction
-
+## Current Demo Direction
 The current stage focuses on lightweight engineering demonstrations.
-
 Initial goals include:
-
 - proving local continuity
 - demonstrating household AI operation
 - validating memory persistence
@@ -51,24 +44,19 @@ Initial goals include:
 
 ---
 
-# Initial Demo Roadmap
-
-## Demo 001 — Local AI Memory Assistant
-
-### Objective
-
+## Initial Demo Roadmap
+### Demo 001 — Local AI Memory Assistant
+**Objective**
 Build a simple local AI assistant capable of remembering long-term interaction history.
 
-### Possible Features
-
+Possible Features:
 - local conversation memory
 - memory retrieval
 - persistent personality context
 - session continuity
 - household-local deployment
 
-### Potential Technologies
-
+Potential Technologies:
 - Ollama
 - local LLM runtime
 - vector database
@@ -79,14 +67,11 @@ Technology stack remains fully open.
 
 ---
 
-## Demo 002 — Household Knowledge Base
-
-### Objective
-
+### Demo 002 — Household Knowledge Base
+**Objective**
 Demonstrate local household knowledge accumulation.
 
-### Possible Features
-
+Possible Features:
 - local document storage
 - family knowledge archive
 - semantic search
@@ -95,21 +80,17 @@ Demonstrate local household knowledge accumulation.
 
 ---
 
-## Demo 003 — Multi-Device Continuity
-
-### Objective
-
+### Demo 003 — Multi-Device Continuity
+**Objective**
 Demonstrate continuity across multiple local devices.
 
-### Potential Devices
-
+Potential Devices:
 - PC
 - phone
 - tablet
 - local server
 
-### Research Areas
-
+Research Areas:
 - continuity synchronization
 - memory consistency
 - device switching
@@ -118,14 +99,11 @@ Demonstrate continuity across multiple local devices.
 
 ---
 
-## Demo 004 — Offline AI Node
-
-### Objective
-
+### Demo 004 — Offline AI Node
+**Objective**
 Demonstrate AI continuity during network interruption.
 
-### Possible Capabilities
-
+Possible Capabilities:
 - offline inference
 - local memory operation
 - disconnected runtime
@@ -134,14 +112,11 @@ Demonstrate AI continuity during network interruption.
 
 ---
 
-## Demo 005 — Low-Power Household AI Runtime
-
-### Objective
-
+### Demo 005 — Low-Power Household AI Runtime
+**Objective**
 Explore lightweight household AI deployment.
 
-### Possible Directions
-
+Possible Directions:
 - mini PC deployment
 - NAS deployment
 - edge AI runtime
@@ -150,10 +125,8 @@ Explore lightweight household AI deployment.
 
 ---
 
-# Demo Architecture Principles
-
+## Demo Architecture Principles
 Demos should aim for:
-
 1. local-first operation
 2. modular structure
 3. replaceable components
@@ -164,10 +137,8 @@ Demos should aim for:
 
 ---
 
-# Engineering Strategy
-
+## Engineering Strategy
 The framework encourages:
-
 - iterative demos
 - engineering decomposition
 - minimal viable prototypes
@@ -178,24 +149,17 @@ Large-scale systems should emerge gradually from validated smaller demos.
 
 ---
 
-# Current Status
-
+## Current Status
 Current stage:
-
 Early demo planning and engineering decomposition.
-
 No official implementation exists yet.
-
 No final software stack is defined.
-
 Technology selection remains fully open.
 
 ---
 
-# Future Demo Possibilities
-
+## Future Demo Possibilities
 Potential future demos may include:
-
 - household AI operating environment
 - local AI memory network
 - decentralized household collaboration
@@ -206,8 +170,7 @@ Potential future demos may include:
 
 ---
 
-# Open Questions
-
+## Open Questions
 - What is the minimum viable household AI node?
 - How should continuity be visualized?
 - How should memory synchronization work?
@@ -218,10 +181,8 @@ Potential future demos may include:
 
 ---
 
-# Relationship With Other Layers
-
+## Relationship With Other Layers
 The demo layer depends on:
-
 - concepts/
 - protocols/
 - architecture/
@@ -232,6 +193,5 @@ Demos act as the engineering bridge between theory and future implementation.
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Build reproducible household-centered AI continuity demonstrations that prove long-term decentralized human-centered AI infrastructure is technically achievable.
