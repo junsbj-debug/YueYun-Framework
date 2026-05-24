@@ -1,15 +1,13 @@
 # Public Infrastructure Layer
+# 公共基础设施层
 
 The Public Infrastructure Layer explores the large-scale infrastructure environment required to support long-term distributed AI civilization systems.
-
 This layer focuses on public coordination capability, resilient infrastructure participation, and civilization-scale operational continuity.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Explore how future public infrastructure may support:
-
 - distributed AI collaboration
 - large-scale synchronization
 - resilient communication
@@ -21,10 +19,8 @@ The framework does not assume permanent centralized infrastructure stability.
 
 ---
 
-# Infrastructure Philosophy
-
+## Infrastructure Philosophy
 YueYun Framework treats infrastructure as:
-
 - modular
 - replaceable
 - layered
@@ -36,12 +32,9 @@ Infrastructure should support human continuity rather than enforce centralized d
 
 ---
 
-# Core Infrastructure Directions
-
-## 1. Communication Infrastructure
-
+## Core Infrastructure Directions
+### 1. Communication Infrastructure
 Potential areas:
-
 - decentralized networking
 - peer-to-peer communication
 - resilient routing
@@ -50,10 +43,8 @@ Potential areas:
 
 ---
 
-## 2. Distributed Storage Infrastructure
-
+### 2. Distributed Storage Infrastructure
 Possible future directions:
-
 - distributed archival systems
 - local-first storage
 - encrypted continuity archives
@@ -62,10 +53,8 @@ Possible future directions:
 
 ---
 
-## 3. AI Coordination Infrastructure
-
+### 3. AI Coordination Infrastructure
 Research areas:
-
 - distributed AI cooperation
 - asynchronous coordination
 - task routing
@@ -74,10 +63,8 @@ Research areas:
 
 ---
 
-## 4. Offline Resilience Infrastructure
-
+### 4. Offline Resilience Infrastructure
 Potential capabilities:
-
 - disconnected operation
 - delayed synchronization
 - infrastructure fragmentation survivability
@@ -86,10 +73,8 @@ Potential capabilities:
 
 ---
 
-## 5. Low-Power Infrastructure
-
+### 5. Low-Power Infrastructure
 Possible exploration areas:
-
 - edge AI systems
 - household GPU participation
 - lightweight node operation
@@ -98,10 +83,8 @@ Possible exploration areas:
 
 ---
 
-# Infrastructure Principles
-
+## Infrastructure Principles
 Infrastructure exploration should prioritize:
-
 1. resilience
 2. decentralization
 3. modularity
@@ -112,12 +95,9 @@ Infrastructure exploration should prioritize:
 
 ---
 
-# Relationship With Household Nodes
-
+## Relationship With Household Nodes
 Household nodes are treated as foundational infrastructure participants.
-
 The framework explores whether large-scale AI civilization infrastructure may eventually emerge from:
-
 - household-local nodes
 - distributed collaboration
 - modular synchronization
@@ -127,16 +107,12 @@ The household remains the minimum stable unit.
 
 ---
 
-# Current Infrastructure Stage
-
+## Current Infrastructure Stage
 Current stage:
-
 Conceptual infrastructure exploration.
-
 No official infrastructure implementation exists yet.
 
 The framework currently focuses on:
-
 - infrastructure decomposition
 - protocol preparation
 - resilience exploration
@@ -145,10 +121,8 @@ The framework currently focuses on:
 
 ---
 
-# Future Infrastructure Exploration
-
+## Future Infrastructure Exploration
 Potential future exploration areas may include:
-
 - distributed memory networks
 - household synchronization systems
 - resilient archival infrastructure
@@ -160,8 +134,7 @@ Technology selection remains fully open.
 
 ---
 
-# Open Questions
-
+## Open Questions
 - How should distributed synchronization operate?
 - How should infrastructure fragmentation be handled?
 - What level of decentralization is practical?
@@ -172,10 +145,8 @@ Technology selection remains fully open.
 
 ---
 
-# Relationship With Other Layers
-
+## Relationship With Other Layers
 The infrastructure layer interacts with:
-
 - protocols/
 - architecture/
 - household-node/
@@ -187,6 +158,5 @@ This layer provides the large-scale continuity environment for distributed house
 
 ---
 
-# Long-Term Goal
-
+## Long-Term Goal
 Explore resilient public infrastructure models capable of supporting long-term human-centered distributed AI civilization continuity across generations and infrastructure instability.
