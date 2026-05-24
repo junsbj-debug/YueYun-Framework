@@ -9,7 +9,7 @@
   - `YueYun-Framework-White-Paper-V1.0-CN-FINAL.pdf`
   - `YueYun-Framework-White-Paper-V1.0-EN-FINAL.pdf`
 
-## V1.1 (2026-05-01)
+## V1.1 (2026-05-16)
 - Public Consensus Supplementary Edition, revised based on community feedback and open discussions
 - Clarifies core concepts, includes errata and detailed explanations
 - Does not affect core architecture or principles
@@ -35,7 +35,7 @@
   - `YueYun-Framework-White-Paper-V1.0-CN-FINAL.pdf`
   - `YueYun-Framework-White-Paper-V1.0-EN-FINAL.pdf`
 
-## V1.1 (2026-05-01)
+## V1.1 (2026-05-16)
 - 公共共识补充版，基于社区反馈与公开讨论修订
 - 补充核心概念说明、勘误与细化解释
 - 不影响核心架构与原则
