@@ -1,23 +1,20 @@
 # Protocol Draft Layer
+# 协议草案层
 
 The protocol layer defines the open interaction standards of YueYun Framework.
-
 This layer focuses on transforming conceptual structures into protocol-oriented engineering specifications.
 
 ---
 
-# Core Objective
-
+## Core Objective
 Build open, modular, replaceable, and long-term sustainable protocol structures for distributed AI civilization systems.
 
 ---
 
-# Protocol Philosophy
-
+## Protocol Philosophy
 YueYun Framework adopts a protocol-first architecture.
 
 Protocols are prioritized over:
-
 - centralized platforms
 - closed ecosystems
 - proprietary AI control systems
@@ -25,12 +22,9 @@ Protocols are prioritized over:
 
 ---
 
-# Initial Protocol Directions
-
-## 1. Personality Continuity Protocol
-
+## Initial Protocol Directions
+### 1. Personality Continuity Protocol
 Possible future responsibilities:
-
 - persistent personality structure
 - memory synchronization
 - cross-device continuity
@@ -39,12 +33,10 @@ Possible future responsibilities:
 
 ---
 
-## 2. Household Node Protocol
-
+### 2. Household Node Protocol
 Defines the operational structure of household-local AI systems.
 
 Potential future modules:
-
 - local AI communication
 - household memory storage
 - node coordination
@@ -53,12 +45,10 @@ Potential future modules:
 
 ---
 
-## 3. Distributed Collaboration Protocol
-
+### 3. Distributed Collaboration Protocol
 Explores coordination between distributed AI nodes.
 
 Possible directions:
-
 - decentralized cooperation
 - distributed task execution
 - AI coordination logic
@@ -67,12 +57,10 @@ Possible directions:
 
 ---
 
-## 4. Local-First Infrastructure Protocol
-
+### 4. Local-First Infrastructure Protocol
 Prioritizes survivability and local autonomy.
 
 Research directions:
-
 - offline-first operation
 - local storage priority
 - decentralized recovery
@@ -81,12 +69,10 @@ Research directions:
 
 ---
 
-## 5. Open Interoperability Protocol
-
+### 5. Open Interoperability Protocol
 Ensures replaceable and modular ecosystem development.
 
 Core goals:
-
 - implementation independence
 - modular compatibility
 - standardized interfaces
@@ -95,14 +81,11 @@ Core goals:
 
 ---
 
-# Current Engineering Status
-
+## Current Engineering Status
 Current protocol work is exploratory.
-
 No finalized technical standard exists yet.
 
 The repository currently focuses on:
-
 - terminology stabilization
 - protocol decomposition
 - conceptual standardization
@@ -110,23 +93,19 @@ The repository currently focuses on:
 
 ---
 
-# Engineering Principles
-
+## Engineering Principles
 Protocol drafts should aim for:
-
-1. openness
-2. modularity
-3. replaceability
-4. decentralization
-5. resilience
-6. long-term maintainability
+1.  openness
+2.  modularity
+3.  replaceability
+4.  decentralization
+5.  resilience
+6.  long-term maintainability
 
 ---
 
-# Future Technical Exploration
-
+## Future Technical Exploration
 Potential future technologies may include:
-
 - local AI runtimes
 - distributed storage systems
 - edge AI coordination
@@ -138,6 +117,5 @@ Technology selection remains fully open.
 
 ---
 
-# Open Collaboration
-
+## Open Collaboration
 Researchers, engineers, protocol designers, and distributed systems contributors are welcome to participate in protocol exploration and discussion.
